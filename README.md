@@ -10,6 +10,5 @@
 - **Incident Response (IR):** Redline, Velociraptor, TheHive Project
 
 ## My TryHackMe badge
-<img width="434" height="117" alt="image" src="https://github.com/user-attachments/assets/fb71e00d-922a-4090-9e72-01dd0997d390" />
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/RahulCyberDefense.png" alt="Your Image Badge" />
 THM Profile Link: [Click here](https://tryhackme.com/p/RahulCyberDefense)
