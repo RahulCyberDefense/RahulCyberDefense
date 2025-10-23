@@ -15,7 +15,7 @@ I also share my write-ups and notes through articles on my Medium page, hoping t
 - **Digital Forensics & Incident Response (DFIR):** Investigating and responding to incidents <br>
 - **Core Strengths:** Analytical thinking, attention to detail, and thriving in high-pressure environments to mitigate cyber threats effectively
 
-## Tools Stack
+## Tools
 - **SIEM**: Splunk, ELK Stack <br>
 - **Network Monitoring**: Snort, NetworkMiner, Zeek, Brim, Wireshark, TShark <br>
 - **Endpoint Security**: Sysinternals, Windows Event Logs, Sysmon, Osquery, Wazuh <br>
