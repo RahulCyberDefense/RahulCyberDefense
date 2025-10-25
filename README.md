@@ -13,7 +13,7 @@ I also share my write-ups and notes through articles on my Medium page, hoping t
 - **Endpoint Security & Monitoring:** Protecting devices and endpoints <br>
 - **Threat Intelligence:** Tracking and analyzing cyber threats <br>
 - **Digital Forensics & Incident Response (DFIR):** Investigating and responding to incidents <br>
-- **Core Strengths:** Analytical thinking, attention to detail, and thriving in high-pressure environments to mitigate cyber threats effectively
+- **Core Strengths:** Malware analysis, Analytical thinking, attention to detail, and thriving in high-pressure environments to mitigate cyber threats effectively
 
 ## Tools
 - **SIEM**: Splunk, ELK Stack <br>
