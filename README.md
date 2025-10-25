@@ -28,7 +28,7 @@ Log analysis, Threat detection, Identifying anomalies, Securing networks, Protec
   <a href="https://www.netresec.com/?page=NetworkMiner" target="_blank"><img src="https://img.shields.io/badge/NetworkMiner-1E90FF?logo=simple-icons:networkminer&labelColor=1E90FF&color=1E90FF&logoColor=white&style=for-the-badge"></a>
   <a href="https://zeek.org/" target="_blank"><img src="https://img.shields.io/badge/Zeek-8B4513?logo=simple-icons:zeek&labelColor=8B4513&color=8B4513&logoColor=white&style=for-the-badge"></a>
   <a href="https://www.brimsecurity.com/" target="_blank"><img src="https://img.shields.io/badge/Brim-4B0082?logo=simple-icons:brim&labelColor=4B0082&color=4B0082&logoColor=white&style=for-the-badge"></a>
-  <a href="https://www.wireshark.org/" target="_blank"><img src="https://img.shields.io/badge/Wireshark-0F4D7D?logo=Wireshark&labelColor=0F4D7D&color=0F4D7D&logoColor=white&style=for-the-badge"></a>
+  <a href="https://www.wireshark.org/" target="_blank"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white"></a>
   <a href="https://www.wireshark.org/docs/man-pages/tshark.html" target="_blank"><img src="https://img.shields.io/badge/TShark-0F4D7D?logo=simple-icons:wireshark&labelColor=0F4D7D&color=0F4D7D&logoColor=white&style=for-the-badge"></a><br>
 - **Endpoint Security** <br>
   <a href="https://learn.microsoft.com/en-us/sysinternals/" target="_blank"><img src="https://img.shields.io/badge/Sysinternals-005BAF?logo=simple-icons:microsoft&labelColor=005BAF&color=005BAF&logoColor=white&style=for-the-badge"></a>
