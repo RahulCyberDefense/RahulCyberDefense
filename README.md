@@ -19,7 +19,7 @@ I also share my write-ups and notes through articles on my Medium page, hoping t
 ## Skills
 Log analysis, Threat detection, Identifying anomalies, Securing networks, Protecting devices and endpoints, Tracking and analyzing cyber threats, Investigating and responding to incidents , Malware analysis, Analytical thinking, Attention to detail, and Thriving in high-pressure environments to mitigate cyber threats effectively
 
-## Tools
+## Tool Stack
 - **SIEM** <br>
   <a href="https://www.splunk.com/" target="_blank"><img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white"></a>
   <a href="https://www.elastic.co/" target="_blank"><img src="https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=Elastic&logoColor=white"></a><br>
