@@ -50,7 +50,7 @@ Log analysis, Threat detection, Identifying anomalies, Securing networks, Protec
   <a href="https://www.fireeye.com/services-and-products/endpoint-security/red-team-tools/redline.html" target="_blank"><img src="https://img.shields.io/badge/Redline-8B0000?logo=simple-icons:fireeye&labelColor=8B0000&color=8B0000&logoColor=white&style=for-the-badge"></a>
   <a href="https://docs.rapid7.com/velociraptor/" target="_blank"><img src="https://img.shields.io/badge/Velociraptor-8B008B?logo=simple-icons:velociraptor&labelColor=8B008B&color=8B008B&logoColor=white&style=for-the-badge"></a>
   <a href="https://thehive-project.org/" target="_blank"><img src="https://img.shields.io/badge/TheHive-8B5A00?logo=simple-icons:thehive&labelColor=8B5A00&color=8B5A00&logoColor=black&style=for-the-badge"></a><br>
-- **Operating System (OS)** <br>
+- **Operating Systems** <br>
   <a href="https://www.microsoft.com/en-us/windows/" target="_blank"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white"></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black"></a>
     <a href="https://www.virtualbox.org/" target="_blank"><img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white"></a><br>
