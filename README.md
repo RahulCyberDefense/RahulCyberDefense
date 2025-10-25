@@ -19,7 +19,7 @@ I also share my write-ups and notes through articles on my Medium page, hoping t
 ## Skills
 Log analysis, Threat detection, Identifying anomalies, Securing networks, Protecting devices and endpoints, Tracking and analyzing cyber threats, Investigating and responding to incidents , Malware analysis, Analytical thinking, Attention to detail, and Thriving in high-pressure environments to mitigate cyber threats effectively
 
-## Tool Stack
+## Security Tools 
 - **SIEM** <br>
   <a href="https://www.splunk.com/" target="_blank"><img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white"></a>
   <a href="https://www.elastic.co/" target="_blank"><img src="https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=Elastic&logoColor=white"></a><br>
@@ -52,12 +52,5 @@ Log analysis, Threat detection, Identifying anomalies, Securing networks, Protec
   <a href="https://thehive-project.org/" target="_blank"><img src="https://img.shields.io/badge/TheHive-8B5A00?logo=simple-icons:thehive&labelColor=8B5A00&color=8B5A00&logoColor=black&style=for-the-badge"></a><br>
 - **Operating System (OS)** <br>
   <a href="https://www.microsoft.com/en-us/windows/" target="_blank"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white"></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black"></a><br>
-
-## TryHackMe Badge
- <a href="https://tryhackme.com/p/RahulCyberDefense" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/RahulCyberDefense.png" alt="TryHackMe Badge" />
-  </a>
-
-- **THM Profile:** [RahulCyberDefense](https://tryhackme.com/p/RahulCyberDefense)
-- **Medium Profile:** [@RahulCyberDefense](https://medium.com/@RahulCyberDefense)
+  <a href="https://www.linux.org/" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black"></a>
+    <a href="https://www.virtualbox.org/" target="_blank"><img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white"></a><br>
