@@ -20,7 +20,7 @@ I also share my write-ups and notes through articles on my Medium page, hoping t
 - **Network Monitoring**: Snort, NetworkMiner, Zeek, Brim, Wireshark, TShark <br>
 - **Endpoint Security**: Sysinternals, Windows Event Logs, Sysmon, Osquery, Wazuh <br>
 - **Threat Intelligence**: Yara, OpenCTI, MISP, Trooper <br>
-- **Digital Forensics**: Autopsy, Volatility, KAPE <br>
+- **Digital Forensics**: RegistryExplorer, Autopsy, Volatility, KAPE <br>
 - **Incident Response**: (IR): Redline, Velociraptor, TheHive Project <br>
 
 ## My TryHackMe Badge
