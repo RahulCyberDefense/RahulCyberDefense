@@ -17,7 +17,7 @@ I also share my write-ups and notes through articles on my Medium page, hoping t
 </div>
 
 ## Skills
-Log analysis, Threat detection, Identifying anomalies, Securing networks, Protecting devices and endpoints, Tracking and analyzing cyber threats, Investigating and responding to incidents , Malware analysis, Analytical thinking, Attention to detail, and Thriving in high-pressure environments to mitigate cyber threats effectively
+Log analysis, Threat detection, Identifying anomalies, Securing networks, Protecting devices and endpoints, Tracking and analyzing cyber threats, Investigating and responding to incidents , Malware analysis, Phishing analysis, Analytical thinking, Attention to detail, and mitigating cyber threats effectively under high pressure environment.
 
 ## Security Tools 
 - **SIEM** <br>
