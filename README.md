@@ -5,7 +5,7 @@ As a fresher, I’m ready to jump into the world of cyber defense, aiming to kic
 
 I’ve built my skills through practical experience, completing over 100 rooms on TryHackMe and earning a spot in the top 3% on the platform. From tackling Capture The Flag (CTF) challenges to diving deep into SIEM, network monitoring, endpoint security, threat intelligence, digital forensics, and incident response, I’m all about solving problems and staying ahead of threats. My GitHub repositories showcase my journey—filled with write-ups and walkthroughs on how I learn and tackle each challenges.
 
-I also share my write-ups and notes through articles on my Medium page, hoping to help fellow cybersecurity enthusiasts navigate their THM SOC 1 path smoothly. 
+I also share my write-ups and notes through articles on my Medium page, hoping to help fellow cybersecurity enthusiasts navigate their cybersecurity path smoothly. 
 
 <div align="center">
   <a href="https://tryhackme.com/p/RahulCyberDefense" target="_blank">
